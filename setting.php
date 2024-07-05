@@ -1,5 +1,4 @@
 <?php
-// Telegram Channel: @rmsup
 // Bot Token 
 $Token="token";
 // User id 

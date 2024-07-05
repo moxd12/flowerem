@@ -44,7 +44,6 @@ input {
 .form__field:focus {
     border-bottom: 2px solid #CE0075
 }
-/* Telegram Channel: @rmsup */
 .form__field:hover {
     border-bottom: 2px solid #CE0075
 }

